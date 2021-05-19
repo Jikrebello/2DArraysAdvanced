@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.FrmDataAnalysis.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\2-TwoDimensional\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.exe
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\bin\Debug\DataAnalysis.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.FrmDataAnalysis.resources
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.exe
+E:\Visual Studio Projects\C# Intermediate Programming\2DArraysAdvanced\bin\Debug\3-DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.pdb
